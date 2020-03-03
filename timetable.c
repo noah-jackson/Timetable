@@ -39,7 +39,7 @@ int main() {
     else if (tue != NULL) {
         printf("*******************************************************\n\n");
         printf("You have 1 lecture and 1 lab today.\n\n");
-        printf("BSC203 Lecture starting 12:30AM (1 hour) - 235.3.016\n");
+        printf("BSC203 Lecture starting 11:30AM (1 hour) - 235.3.016\n");
         printf("ICT159 Lab starting 1:30PM (3 hours) - 460.4.034\n\n");
         printf("*******************************************************\n");
     }
